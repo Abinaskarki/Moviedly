@@ -8,4 +8,4 @@ Features:
 4. View movies by genres.
 
 Technology Used:
-Node.js, MongoDB
+Node.js, Express.js, MongoDB
